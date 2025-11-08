@@ -1,0 +1,20 @@
+[
+  {
+    "endpoint": "https://fcm.googleapis.com/fcm/send/ddYwJmLEsLA:APA91bHM-c3ie7TA7odxA13zSZ_iIsUBXDi8i66_VLbWk51avjxp_XBsrZ7ZoGp3VjgSJhcnuU6DoPA1UVJ8jED6lOwjW9GjZu6QAKwgC6af8HNHoL8oY2Rgl9jWeHKRc5Y_1Wjkx_dm",
+    "expirationTime": null,
+    "keys": {
+      "p256dh": "BOYcYXyEJOUrl-iqS-dfVWbB-0WI_7SsLMLbM5XVVPMRFrdOgexy2krj7t_fgqLyW4W3YTIG2cg0f6TjApuAIkE",
+      "auth": "3MnNW4jKAdHwfNR1keSqUw"
+    },
+    "email": "santruturaj1762584030611@gmail.com"
+  },
+  {
+    "endpoint": "https://wns2-pn1p.notify.windows.com/w/?token=BQYAAADx72gZj06xvfCf5lcvYSEolb06K74SVwI4g%2fcSDK%2b9KvK1neVkxsFRQpSGSiLoVFxxjRd1n1yBCwr2NVn%2bcOXswM2VIjTYjpY8pGHU3WIc1OtdRTT%2fD2jqJ5rsiFnsv2tuIDo8ZawT0sgU33uggLstNuAeYtZ1HraWPn%2byBUEV64RweSjnIoTC50%2becVzFBYoNn6GBoy9rkEvC4aBXg3defckz5FzQ4ELB3FTW7AL1G5qx2TbB5t8hG7ZIzDiR7iHjqmctNu9nh%2b8JZw%2fyE9eAQAMf6d1W9E8532DwKxBNmw91A9%2fCglM34iLsQpEQ0ZjE%2fEb4AaBMyzS%2bZsvQcf%2fB",
+    "expirationTime": null,
+    "keys": {
+      "p256dh": "BBmlCHkmWHdio5tQJmB7-yaoSOnDm7wjlbBKr4sk1--OuWODgXrWCCIsNoab_VjhmIVTcwxsEMskM-1g8IsdmTo",
+      "auth": "A5yCoLT84ivpPBMFPF2msg"
+    },
+    "email": "santruturaj1762584053490@gmail.com"
+  }
+]
